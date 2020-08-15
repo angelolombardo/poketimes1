@@ -6,9 +6,9 @@ const Navbar = () => {
     return(
     <nav className="nav-wrapper red darken-3">
         <div className="container">
-            <a href="../home" className="brand-logo">Poke'Times</a>
+            <a href="https://angelolombardo.github.io/poketimes1/" className="brand-logo">Poke'Times</a>
             <ul className="right">
-                <li><Link to="../home">Home</Link></li>
+                <li><Link to="https://angelolombardo.github.io/poketimes1/">Home</Link></li>
                 <li><NavLink to="../about">About</NavLink></li>
                 <li><Link to="../contact">Contact</Link></li>
                 
